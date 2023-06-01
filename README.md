@@ -141,6 +141,9 @@ module.exports = router;
 ## USAGE
 
 > clone this repository
+
 > npm install
+
 > npm run dev
+
 > send request in test.http
